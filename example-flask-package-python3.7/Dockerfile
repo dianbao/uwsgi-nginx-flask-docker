@@ -1,3 +1,3 @@
 FROM tiangolo/uwsgi-nginx-flask:python3.7
 
-COPY ./app /app
+COPY /example-flask-package-python3.7/app /app
